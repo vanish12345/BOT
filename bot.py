@@ -12,7 +12,7 @@ app = Flask(__name__)
 # Конфиг из переменных окружения
 VK_TOKEN = os.environ.get("vk1.a.GErn6EdFPPkeSWkypOnzeurV9iyyeYm0vlerdZdOZiNl3wRHNUQIOEVJgTrghOEFpBymLvZbRfnlYGQDJOLUOuBpqpwjget7W3xIQwmhavrjCGijhF3ezpe2tmiTvBxE0nXg6JZbASTQYbz6eO6Spof3TEHL_N15wRERcY2WALfqXDPJdJxo_wGfLl0KrKqIp68iTpEP7HIrdwkpjkMrXw")
 VK_SECRET = os.environ.get("YABOT")
-VK_CONFIRMATION = os.environ.get("b3cf01f3")
+VK_CONFIRMATION = os.environ.get("913541d2")
 DEEPSEEK_API_KEY = os.environ.get("sk-47360f2b946d42828c86e962fa43c7d7")
 
 VK_API_VERSION = "5.131"
